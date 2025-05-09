@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 Запустите приложение:
 python gui.py
+---
 
-
-🎮Как получить ID:
+## 🎮Как получить ID:
 
 Обычный (random) режим
 
