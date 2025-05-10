@@ -11,7 +11,6 @@
    git clone https://github.com/alpin0s/KontekstnoHack.git
    cd KontekstnoHack
 
-
 Запустите приложение:
 python gui.py
 ---
