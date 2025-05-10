@@ -11,8 +11,6 @@
    git clone https://github.com/alpin0s/KontekstnoHack.git
    cd KontekstnoHack
 
-Установите зависимости:
-pip install -r requirements.txt
 
 Запустите приложение:
 python gui.py
